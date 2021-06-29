@@ -19,7 +19,7 @@ Instructions: Just type the message you want to spam, how many times you want th
 ''')
 print(f'''{Fore.LIGHTRED_EX}NOTE: THIS TOOL CAN CAUSE CHAOS IF NOT USED IN THE RIGHT WAY. IN SIMPLE WORDS IT WILL WRITE THE MESSAGE AND PRESS \nENTER OVER AND OVER AGAIN SO BE CAREFULL WHAT WINDOW AND INPUT BOX YOUR COMPUTER IS FOCUSED ON
 ''')
-print(f"{Fore.LIGHTBLUE_EX}You can contact me on discord: TheAndrei#8977 \n ")
+print(f"{Fore.LIGHTBLUE_EX}You can contact me on discord: TheAndrei#0001 \n ")
 
 msg = input(f"{Fore.GREEN}Message to spam: ")
 times = input(f"{Fore.GREEN}\nHow many times: ")
